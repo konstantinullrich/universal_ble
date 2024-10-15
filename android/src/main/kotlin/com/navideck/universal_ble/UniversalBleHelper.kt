@@ -19,7 +19,6 @@ import android.os.Build
 import android.os.ParcelUuid
 import android.util.Log
 import android.util.SparseArray
-import androidx.core.util.keyIterator
 import java.nio.ByteBuffer
 import java.nio.ByteOrder
 import java.util.UUID
